@@ -61,10 +61,10 @@ body {
   margin: 20px;
   text-align: center;
 }
-
 form {
   padding: 20px;
 }
+
 input[type='text']{
   width: 100%;
   padding: 10px;
@@ -74,6 +74,7 @@ input[type='text']{
   color: #fff;
   border: 0;
 }
+
 input[type='submit']{
   margin: 10px auto;
   background: #eee;
